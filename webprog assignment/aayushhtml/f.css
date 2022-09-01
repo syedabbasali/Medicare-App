@@ -1,0 +1,48 @@
+.upper{
+	width:1500px;
+	height:100px;
+	background-color:  green;
+	border: solid;
+	border-color: red;
+
+}
+.write{
+	margin-top: 10px;
+	margin-left: 500px;
+
+}
+.logo{
+	border-style: solid;
+	border-radius: 100px;
+	height: 400px;
+	width: 400px;
+	margin-left: 500px;
+
+	}
+	.nav{
+		width:400px;
+	height:300px;
+	background-color:  green;
+	border: solid;
+	border-color: red;
+	margin-top: -495px;
+	padding-right: 10px;
+
+	}
+	.logo1{
+		border-style: solid;
+	border-radius: 50px;
+	height: 200px;
+	width: 200px;
+	margin-left: 1000px;
+}
+.login{
+		width:400px;
+	height:300px;
+	background-color:  green;
+	border: solid;
+	border-color: red;
+	margin-top: -495px;
+	padding-right: 10px;
+
+}

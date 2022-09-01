@@ -1,0 +1,21 @@
+.upper{
+	width:1500px;
+	height:100px;
+	background-color:  green;
+	border: solid;
+	border-color: red;
+
+}
+.write{
+	margin-top: 10px;
+	margin-left: 500px;
+
+}
+.logo{
+	border-style: solid;
+	border-radius: 100px;
+	height: 400px;
+	width: 400px;
+	margin-left: 500px;
+
+}
